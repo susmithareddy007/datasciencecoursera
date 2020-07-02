@@ -1,2 +1,2 @@
 # datasciencecoursera
-A Repository foe Peer-graded assignment
+A Repository for Peer-graded assignment
